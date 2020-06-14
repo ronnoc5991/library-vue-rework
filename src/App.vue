@@ -10,12 +10,10 @@
 </template>
 
 <script>
-// import Books from './components/Books.vue'
 
 export default {
   name: 'App',
   components: {
-    // Books
   }
 }
 </script>
@@ -23,5 +21,8 @@ export default {
 <style>
 body {
   background-color: #eeeeee;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
 }
 </style>
